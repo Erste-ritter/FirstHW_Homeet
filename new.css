@@ -1,0 +1,105 @@
+.header {
+    background-color: #9747FF;
+}
+@font-face {
+        font-family: 'Museo Sans Cyrl';
+        src: url("/qwe/Fontss/MuseoSansCyrl300.otf") format("opentype");
+    }
+.upper_button {
+    font-family: 'Museo Sans Cyrl';
+    cursor: pointer;
+    position: relative;
+    height: 35px;
+    background-color: white;
+    border-radius: 8px;
+    border: 1 px;
+    border-color: #7953C3;   
+    transition: 1s all;
+    width: 173px;
+    height: 40px;
+    float: right;
+    color: #9747FF;
+    Padding: 8px, 16px, 8px, 16px;
+    Gap: 8px;
+}
+.HG_button{
+    font-family: 'Museo Sans Cyrl';
+    display: flex;
+    cursor: pointer;
+    position: relative;
+    height: 35px;
+    background-color: white;
+    border-radius: 8px;
+    border: 1px;
+    border-color: #7953C3;   
+    transition: 1s all; 
+    width: 108px;
+    height: 36px;
+    float: left;
+    color: #9747FF;
+    Padding: 8px, 16px, 8px, 16px;
+    Gap: 8px;
+}
+.os{
+    color: #9E9E9E;
+}
+.shapka{
+    font-family: 'Museo Sans Cyrl';
+}
+.avatar{
+    font-family: 'Museo Sans Cyrl';
+    width: 366px;
+    height: 200px;
+    text-align: center;
+    size: 16px;
+    margin-left: 70px;
+    margin-top: 42px;
+    border: 1px dashed;
+    border-radius: 16px;
+    border-color: #CDBDDB;
+    line-height: 24px;
+    padding: 40px, 32px, 40px, 32px;
+    gap: 20px;
+}
+.button_download{
+    font-family: 'Museo Sans Cyrl';
+    cursor: pointer;
+    position: relative;
+    height: 35px;
+    margin-top: 16px;
+    background-color: #7953C3;
+    border-radius: 8px;
+    border: 1px;
+    border-color: white;   
+    transition: 1s all; 
+    width: 144px;
+    height: 36px;
+    float: center;
+    color: white;
+    Padding: 8px, 40px, 8px, 40px;
+    Gap: 8px;
+    size: 14px;
+    line-height: 20px;
+}
+.avatar_text{
+    font-family: 'Museo Sans Cyrl';
+    text-align: center;
+    color: #CCCCCC;
+    width: 302px;
+    height: 20px;
+    margin-left: 30px;
+    border-radius: 16px;
+    size: 14px;
+    line-height: 20px;
+    border: 1px;
+    gap: 20px;
+}
+.tg{
+    font-family: 'Museo Sans Cyrl';
+    border-radius: 8px;
+    padding: 16px, 12px, 16px, 12px;
+    gap: 8px;
+    font-size: 16px;
+    font-weight: 400;
+    font-weight: 342px;
+}
